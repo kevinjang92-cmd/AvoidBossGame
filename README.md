@@ -13,8 +13,7 @@
 <table>
   <tr>
     <td><img width="609" height="925" alt="Screenshot 2026-02-25 at 11 37 37 PM" src="https://github.com/user-attachments/assets/519c3532-ee72-485f-a57d-c0daa3c921a9" /></td>
-    <td><img width="575" height="930" alt="Screenshot 2026-02-25 at 11 37 28 PM" src="https://github.com/user-attachments/assets/7ef02da2-ba43-411e-b847-674b9e979498" /></tr>td>
-
+    <td><img width="575" height="930" alt="Screenshot 2026-02-25 at 11 37 28 PM" src="https://github.com/user-attachments/assets/7ef02da2-ba43-411e-b847-674b9e979498" /></td>
   </tr>
 </table>
 
