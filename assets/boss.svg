@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 150" role="img" aria-label="상사">
+  <rect width="120" height="150" rx="14" fill="#ffe6d2"/>
+  <ellipse cx="60" cy="42" rx="24" ry="26" fill="#f6c7a2"/>
+  <path d="M35 40c0-16 11-27 25-27s25 11 25 27c-9-8-40-8-50 0z" fill="#2f2a28"/>
+  <circle cx="50" cy="44" r="3.5" fill="#2d1f16"/>
+  <circle cx="70" cy="44" r="3.5" fill="#2d1f16"/>
+  <path d="M48 57q12 9 24 0" stroke="#7d2f25" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <rect x="24" y="74" width="72" height="62" rx="10" fill="#3a6bb2"/>
+  <rect x="54" y="74" width="12" height="62" fill="#1d4d8d"/>
+  <path d="M14 78h24v15H14zM82 78h24v15H82z" fill="#f6c7a2"/>
+  <rect x="46" y="86" width="28" height="6" rx="2" fill="#ffd05f"/>
+  <text x="60" y="147" text-anchor="middle" font-size="12" font-family="sans-serif" fill="#7a3b1f">상사</text>
+</svg>

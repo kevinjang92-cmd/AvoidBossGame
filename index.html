@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>상사 피하기</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <header class="game-header">
+        <h1>상사 피하기</h1>
+        <p>위에서 내려오는 상사를 좌우로 피해라.</p>
+      </header>
+
+      <section class="hud" aria-live="polite">
+        <p>점수: <strong id="score">0</strong></p>
+        <p>생존 시간: <strong id="time">0.0s</strong></p>
+      </section>
+
+      <section id="game-area" class="game-area" aria-label="게임 영역">
+        <div id="player" class="player" aria-label="플레이어">
+          <img src="./assets/player.svg" alt="플레이어 캐릭터" />
+        </div>
+      </section>
+
+      <div class="controls">
+        <button id="left-btn" type="button" aria-label="왼쪽으로 이동">◀</button>
+        <button id="restart-btn" type="button">다시 시작</button>
+        <button id="right-btn" type="button" aria-label="오른쪽으로 이동">▶</button>
+      </div>
+
+      <p class="hint">키보드: ← → 또는 A D</p>
+    </main>
+
+    <template id="boss-template">
+      <div class="boss">
+        <img src="./assets/boss.svg" alt="상사" />
+      </div>
+    </template>
+
+    <template id="gameover-template">
+      <div class="gameover">
+        <img src="./assets/scolding.svg" alt="상사에게 붙잡혀 잔소리를 듣는 장면" />
+        <h2>붙잡혔다...</h2>
+        <p>“이게 보고서야?” 잔소리 2시간 코스 시작</p>
+        <button id="overlay-restart-btn" type="button">다시 도전</button>
+      </div>
+    </template>
+
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>

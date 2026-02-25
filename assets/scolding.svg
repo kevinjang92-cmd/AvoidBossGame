@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="상사에게 잔소리 듣는 장면">
+  <rect width="600" height="420" fill="#fff8f1"/>
+  <rect x="0" y="310" width="600" height="110" fill="#f6ddc9"/>
+  <rect x="235" y="200" width="140" height="110" rx="8" fill="#9a6b4f"/>
+  <rect x="245" y="210" width="120" height="90" rx="6" fill="#fff"/>
+  <text x="305" y="245" text-anchor="middle" font-size="15" font-family="sans-serif" fill="#2d1f16">성과 보고서</text>
+  <text x="305" y="268" text-anchor="middle" font-size="15" font-family="sans-serif" fill="#2d1f16">수정 필요 12건</text>
+
+  <g transform="translate(140 90)">
+    <ellipse cx="70" cy="58" rx="38" ry="40" fill="#f6c7a2"/>
+    <path d="M32 53c0-26 16-44 38-44s38 18 38 44c-13-13-60-13-76 0z" fill="#2f2a28"/>
+    <circle cx="56" cy="60" r="5" fill="#20150f"/>
+    <circle cx="84" cy="60" r="5" fill="#20150f"/>
+    <path d="M56 83q14-10 28 0" stroke="#7d2f25" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <rect x="24" y="98" width="92" height="112" rx="12" fill="#3a6bb2"/>
+    <rect x="66" y="98" width="12" height="112" fill="#1d4d8d"/>
+    <rect x="-6" y="118" width="36" height="16" fill="#f6c7a2"/>
+    <rect x="114" y="118" width="36" height="16" fill="#f6c7a2"/>
+  </g>
+
+  <g transform="translate(370 130)">
+    <ellipse cx="62" cy="58" rx="34" ry="36" fill="#f5ceb3"/>
+    <path d="M30 56c0-21 13-36 32-36s32 15 32 36c-12-11-52-11-64 0z" fill="#292929"/>
+    <circle cx="50" cy="60" r="4.2" fill="#222"/>
+    <circle cx="74" cy="60" r="4.2" fill="#222"/>
+    <path d="M50 81q12 8 24 0" stroke="#7c4b35" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <rect x="20" y="94" width="84" height="96" rx="11" fill="#5c9b69"/>
+    <rect x="6" y="150" width="25" height="12" fill="#f5ceb3"/>
+    <rect x="95" y="150" width="25" height="12" fill="#f5ceb3"/>
+  </g>
+
+  <path d="M260 75h190a20 20 0 0 1 20 20v58a20 20 0 0 1-20 20H260a20 20 0 0 1-20-20V95a20 20 0 0 1 20-20z" fill="#fff" stroke="#2d1f16" stroke-width="4"/>
+  <text x="355" y="112" text-anchor="middle" font-size="22" font-family="sans-serif" fill="#9c2d14">이게 보고서야?</text>
+  <text x="355" y="142" text-anchor="middle" font-size="22" font-family="sans-serif" fill="#9c2d14">왜 또 실수했어!</text>
+</svg>
